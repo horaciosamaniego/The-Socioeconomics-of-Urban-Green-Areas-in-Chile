@@ -44,6 +44,16 @@ Data contains all Green Urban Areas of the six major urban cities in Chile. It s
 >
 > ISMT_LEVEL: ISMT Quartile (0<= Q1 <0.25 Low, 0.25<= Q2 < 0.5 Medium Low, 0.5<= Q3 <0.75 Medium High, Q4 >= 0.75 High)
 
+
+## Abstract
+
+Green Urban Areas (GUAs) in urban environments offer numerous benefits, including temperature regulation, air pollution reduction, climate event mitigation, and mental health improvement. Consequently, various organizations worldwide emphasize the importance of equitable access to quality public green infrastructure to enhance urban quality of life. Despite these efforts, global trends indicate an unequal spatial distribution of greenness and GUAs, often favoring more affluent populations. In Chile, green infrastructure availability is similarly uneven, with greener GUAs typically found in higher socioeconomic neighborhoods. Our review of the evidence reveals that this inequity exists not only between cities with different investment capacities but also within the same administrations. However, most studies focus on the Metropolitan Region and primarily consider exposure and access to greenness.
+
+This study examines the greenness of GUAs in six Chilean conurbations, spanning a wide latitudinal gradient from Antofagasta to Puerto Montt, and compares it with socio-material segregation indicators. We calculated the mean NDVI of each green area using remote sensing data from Landsat 8. Socio-material characterization was conducted in two ways: stratifying the environment of each park using a socio-material index (ISMT) and analyzing the socioeconomic segregation of park visitors throughout the day using eXtended Call Detail Registries (XDR) from anonymized users of a major mobile telephone company (Movistar).Our findings indicate segregation in both dimensions, with greenness inequitably distributed among different ISMT categories. Additionally, the socio-material entropy of park visitors aligns with literature trends, showing higher segregation during times when people are at home and in more peripheral and socioeconomically vulnerable areas. We discuss the need for more granular and scaled analyses and highlight the study’s relevance in addressing statistical issues such as the Modifiable Areal Unit Problem (MAUP).
+
+
+
+
 ## Materials and Methods (extracted from the paper)
 
 2. Materials and Methods
