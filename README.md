@@ -13,7 +13,7 @@ Affiliations:
 (1) Laboratorio de Ecoinformática, Instituto de Conservación, Biodiversidad y Territorio, Universidad Austral de Chile, Campus Isla
 Teja s/n, Valdivia, Los Ríos, Chile
 
-(2) Instituto de Sistemas Complejos de Valpara´ıso, Subida Artiller´ıa, Valpara´ıso, Chile
+(2) Instituto de Sistemas Complejos de Valparaíso, Subida Artillería, Valparaíso, Chile
 
 corresponding author: [horacio@ecoinformatica.cl]
 
