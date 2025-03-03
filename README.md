@@ -6,9 +6,14 @@ A preprint of the manuscript related to this project is available here:
 
 Title: __Socioeconomic Segregation and Park Greenness: Insights Across a Strong Latitudinal Gradient__
 
-Authors: __Diego Calbucheo and Horacio Samaniego__
+Authors: __Diego Calbucheo (1) and Horacio Samaniego (1,2)__
 
 corresponding author: [horacio@ecoinformatica.cl]
+
+Affiliations: (1) Laboratorio de Ecoinformática, Instituto de Conservación, Biodiversidad y Territorio, Universidad Austral de Chile, Campus Isla
+Teja s/n, Valdivia, Los Ríos, Chile
+
+(2) Instituto de Sistemas Complejos de Valpara´ıso, Subida Artiller´ıa, Valpara´ıso, Chile
 
 
 ## Description of the data and file structure
