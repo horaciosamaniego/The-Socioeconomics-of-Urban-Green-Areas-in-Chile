@@ -9,7 +9,9 @@ bioArXiv
 Data contains all Green Urban Areas of the six major urban cities in Chile. It shows the mean NDVI, ISMT (Socioeconoimic stratification) and on'hour slot entropy of visitation across the ISMT quartiles.
 
 > ==> Table_entropy.csv <==
+> 
 > Columns are one-hour slots
+>
 > ID: GUA identifier
 
 > ==> Table_parks.csv <==
