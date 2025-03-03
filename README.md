@@ -3,12 +3,13 @@
 A preprint of the manuscript related to this project is available here:
 
 ## __BIORXIV/2025/640840__
+
 Title: __Socioeconomic Segregation and Park Greenness: Insights Across a Strong Latitudinal Gradient__
+
 Authors: __Diego Calbucheo and Horacio Samaniego__
+
 corresponding author: [horacio@ecoinformatica.cl]
 
-
-bioArXiv
 
 ## Description of the data and file structure
 
